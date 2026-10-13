@@ -1,0 +1,13 @@
+{
+  "name": "ux-skill",
+  "owner": { "name": "shahab7e", "url": "https://github.com/shahab7e" },
+  "plugins": [
+    {
+      "name": "ux",
+      "source": "./",
+      "description": "Expert UX & usability knowledge base: reviews, audits, forms, accessibility, mobile, deceptive patterns, and AI interface design.",
+      "version": "1.0.0",
+      "category": "design"
+    }
+  ]
+}
