@@ -1,0 +1,10 @@
+{
+  "name": "ux",
+  "version": "1.0.0",
+  "description": "Expert UX & usability knowledge base for Claude: reviews, audits, forms, accessibility, mobile, deceptive patterns, and AI/copilot interface design.",
+  "author": { "name": "shahab7e", "url": "https://github.com/shahab7e" },
+  "homepage": "https://github.com/shahab7e/ux-skill",
+  "repository": "https://github.com/shahab7e/ux-skill",
+  "license": "MIT",
+  "keywords": ["ux", "usability", "ui", "accessibility", "wcag", "audit", "cro", "forms", "dark-patterns", "ai-ux"]
+}
